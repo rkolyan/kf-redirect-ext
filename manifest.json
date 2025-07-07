@@ -1,0 +1,16 @@
+{
+  "name": "Codeforces.org redirector",
+  "description": "Redirects requests from codeforces.org to codeforces.com/codeforces.org, making Codeforces work again",
+  "version": "0.1",
+  "manifest_version": 2,
+  "permissions": [
+    "webRequest",
+    "webRequestBlocking",
+    "*://userpic.codeforces.org/*",
+    "*://codeforces.com/*",
+    "*://codeforces.org/*"
+  ],
+  "background": {
+    "scripts": ["background.js"]
+  }
+}
