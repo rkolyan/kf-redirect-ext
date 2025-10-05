@@ -1,4 +1,4 @@
-chrome.webRequest.onBeforeRequest.addListener(
+browser.webRequest.onBeforeRequest.addListener(
   function (details) {
     if (details.url.includes("://codeforces.org")) {
       return {

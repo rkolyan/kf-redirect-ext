@@ -10,7 +10,15 @@
     "*://codeforces.com/*",
     "*://codeforces.org/*"
   ],
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "someidforjokethatworking"
+    }
+  },
   "background": {
     "scripts": ["background.js"]
+  },
+  "icons": {
+    "48": "icons/icon48.png"
   }
 }
