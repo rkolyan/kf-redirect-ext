@@ -1,6 +1,6 @@
 # Codeforces.org redirect extension
 
-Форк репозитория [Оригинал](https://github.com/Mrksist/kf-redirect-ext)
+Форк [репозитория](https://github.com/Mrksist/kf-redirect-ext).
 
 Расширение для браузера Firefox, обеспечивающее доступ к codeforces с некоторых провайдеров в России
 
