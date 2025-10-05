@@ -9,4 +9,4 @@ Codeforces при загрузке подгружает ресурсы с сер
 
 ## Установка
 
-Для установки расширения необходимо скачать (XPI-файл расширения)[https://github.com/rkolyan/kf-redirect-ext/releases/download/release/ad85265f4bc34f5cb8c4-0.1.xpi]. Далее в Firefox зайти в Настройки->Расширения->Установить расширение из файла.
+Для установки расширения необходимо скачать [XPI-файл расширения](https://github.com/rkolyan/kf-redirect-ext/releases/download/release/ad85265f4bc34f5cb8c4-0.1.xpi). Далее в Firefox зайти в Настройки->Расширения->Установить расширение из файла.
