@@ -12,7 +12,8 @@
   ],
   "browser_specific_settings": {
     "gecko": {
-      "id": "someidforjokethatworking"
+      "id": "blendervik@gmail.com",
+      "strict_min_version": "58.0"
     }
   },
   "background": {
